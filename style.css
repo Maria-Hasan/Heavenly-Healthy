@@ -59,3 +59,12 @@ section img{
     padding-left:10px;
     border-radius:15px;
 }
+#tasty-grill{
+    background-color:black;
+    width:100%;
+    height:110px;
+    color:white;
+    text-align:center;
+    padding-top:5px;
+
+}
