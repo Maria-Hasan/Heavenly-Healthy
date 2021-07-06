@@ -1,0 +1,61 @@
+body{
+    font-family: 'Uchen', serif;  
+}
+h1{
+    font-size: 40px;
+}
+span{
+    color:orangered;
+}
+.appetite{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    color:honeydew;
+    padding:7px 16px;
+    border-radius:10px;
+}
+.curry-plate{
+    display:flex;
+}
+section{
+    width:100%;
+    padding-left: 40px;
+}
+section img{
+    width:50%;
+    padding-left:100px;
+}
+#brown-sugar{
+    width:200%;
+}
+#vanilla-bean{
+    display:flex;
+    margin-top:150px;
+    background-image: url(photos/Frame\ 58.jpg);
+
+}
+.healthy-grocer{
+  padding-right:100px;
+  margin-left:60px;
+}
+.healthy-food{
+    text-align:center;
+    margin-top:70px;
+}
+.dinner-bomb{
+    display:flex;
+    margin-bottom:100px;
+    
+}
+.bacon{
+    text-align:center;
+    margin-bottom:50px;
+}
+.bbq{
+    box-shadow: 10px 10px 40px gray;
+    width:40%;
+    margin-left:2px;
+    margin-right:40px;
+    padding-left:10px;
+    border-radius:15px;
+}
